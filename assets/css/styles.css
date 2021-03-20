@@ -1,0 +1,100 @@
+html {
+    font-family: Helvetica, sans-serif;
+    background-color: #27212E;
+    margin: 32px 10%;
+    color: #F8E3FF;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+}
+
+.navbar {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 48px;
+    background-color: #EB64B9;
+    padding: 24px;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    margin: 48px auto;
+    background-color: #EB64B9;
+    padding: 24px;
+    text-align: center;
+    color: #27212E;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+.navbar .title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #27212E;
+}
+
+.navbar .shortcut ul {
+    text-align: center;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar ul li a {
+    text-align: center;
+    padding: 12px;
+    transition: color 0.75s;
+    color: #27212E;
+}
+
+.navbar ul li a:hover {
+    text-align: center;
+    padding: 12px;
+    color: #6a0ed3;
+}
+
+.sukunahuhahuha {
+    border-radius: 100%;
+    width: 120px;
+    height: 120px;
+    background-image: url("../images/sukuna.png");
+    margin: 16px;
+}
+
+.content h1 {
+    color: 	#EB64B9;
+    text-align: center;
+}
+
+a {
+    transition: color 0.75s;
+}
+
+a:link {
+    color: #B381C5;
+    font-size: 120%;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:visited {
+    color: #B381C5;
+    text-decoration: none;
+}
+a:hover {
+    color: #40B4C4;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:active {
+    color: #B381C5;
+    text-decoration: none;
+}
