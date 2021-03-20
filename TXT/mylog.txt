@@ -12,3 +12,4 @@ ZCZC W01 30 L06 Reading References/Book/Documents
 ZCZC W01 160 L11 Assignment #1
 ZCZC W01 60 L05 GSGS Related
 ZCZC W02 20 L21 VirtualBox: install GNU/Linux, etc.
+ZCZC W02 30 L12 Assignment #2
