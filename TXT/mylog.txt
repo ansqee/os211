@@ -23,3 +23,6 @@ ZCZC W04 30 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W05 120 L05 GSGS Related
 ZCZC W05 30 L23 Discord: discussion, etc.
 ZCZC W05 80 L15 Assignment #5
+ZCZC W06 60 L05 GSGS Related
+ZCZC W06 30 L03 Pop quiz
+ZCZC W06 60 L16 Top 10 List
